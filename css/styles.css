@@ -132,3 +132,10 @@ color: #ffff;
     text-align: center;
 }
 
+/* About */
+#about{
+    padding: 3% 7%;
+    text-align:center;
+    font-size: large;
+    color: black;
+    }
