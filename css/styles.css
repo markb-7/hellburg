@@ -127,5 +127,8 @@ color: #ffff;
     padding: 3% 2%;
 }
 
-
+/* cta */
+*caption{
+    text-align: center;
+}
 
