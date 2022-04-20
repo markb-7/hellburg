@@ -63,7 +63,7 @@ p{
 
 /* Title Image */
 .title-image{
-    width:30%;
+    max-width: 30%;
     transform: rotate(25deg);
     margin-left: 80px;
 }
