@@ -66,7 +66,15 @@ p{
     max-width: 30%;
     transform: rotate(25deg);
     margin-left: 80px;
+    
 }
+@media (max-width:767px) 
+    {
+       .title-image         
+    {
+        display:none;
+    }
+    }
 
 /* features */
 #features{
@@ -139,3 +147,4 @@ color: #ffff;
     font-size: large;
     color: black;
     }
+
